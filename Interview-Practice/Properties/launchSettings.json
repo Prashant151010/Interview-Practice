@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Interview-Practice": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
