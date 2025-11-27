@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Test");
+﻿using Interview_Practice;
+
+StringPractice.Reverse("Prashant");
+StringPractice.LetterCount("Prashant");
